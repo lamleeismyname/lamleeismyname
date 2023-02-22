@@ -1,1 +1,1 @@
-/* normal people to coder roadmap */
+/* normal people to coder journey */
